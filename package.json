@@ -21,7 +21,7 @@
     "@nivo/pie": "^0.83.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
+    "@testing-library/user-event": "^14.4.3",
     "d3-color": "^3.1.0",
     "formik": "^2.4.2",
     "install": "^0.13.0",
